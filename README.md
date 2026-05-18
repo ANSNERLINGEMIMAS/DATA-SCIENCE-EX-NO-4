@@ -223,5 +223,6 @@ print("\nModel Accuracy (Embedded Method):", accuracy_score(y_test, y_pred))
 
 
 # RESULT:
-      Thus the Feature Scaling and selection Executed successfully.
+
+   Thus the Feature Scaling and selection Executed successfully.
 
